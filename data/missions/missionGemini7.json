@@ -1,0 +1,116 @@
+{
+    "mission": "Gemini 7",
+    "missionOfficial": "Gemini VII",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1965-100A"
+    ],
+    "satcatNo": [
+        1812
+    ],
+    "missionDuration": "13 days, 18 hours, 35 minutes, 1 second",
+    "missionDurationSeconds": 1190101,
+    "distanceTravelledKm": 9030000,
+    "distanceTravelledNmi": 4876000,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC7",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 8076,
+            "combinedLaunchMassKg": 3663,
+            "combinedLandingMassLbs": 4317.14, 
+            "combinedLandingMassKg": 1958.22
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Frank Borman",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "James \"Jim\" Lovell",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12562",
+        "launchDateTime": "1965-12-04T19:30:03Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Wasp",
+        "landingDateTime": "1965-12-18T14:05:04Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 25.416667,
+            "longitude": -70.116667
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 206,
+        "perigeeAltitudeKm": 299,
+        "perigeeAltitudeNmi": 161,
+        "apogeeAltitudeKm": 302,
+        "apogeeAltitudeNmi": 163,
+        "inclinationDeg": 28.87,
+        "periodMinutes": 90.54,
+        "epoch": "1965-12-09"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:Gemini_VII_patch.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:Gemini_7_Crew_(Lovell_und_Borman).jpg",
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:Lovell_pre-launch_gemini_7.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:S65-61650.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:Pacific_Ocean_seen_from_Gemini_7.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:S65-63197.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_7#/media/File:Gemini_VII_capsule.tif"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Schirra,_Stafford_and_Gemini_on_Deck_-_GPN-2000-001412.jpg"
+        ]
+    },
+    "notes": "First crewed rendezvous with another spacecraft, its sister Gemini 7."        
+}

@@ -1,0 +1,107 @@
+{
+    "mission": "MR-7",
+    "missionOfficial": "Mercury-Atlas 7",
+    "missionCallsign": "Aurora 7",
+    "missionType": "Test flight",
+    "program": "Mercury",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1962-019A"
+    ],
+    "satcatNo": [
+        295
+    ],
+    "missionDuration": "00 days, 04 hours, 56 minutes, 5 seconds",
+    "missionDurationSeconds": 17765,
+    "distanceTravelledKm": 122344,
+    "distanceTravelledNmi": 76021,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Mercury No.18",
+                "callSign": "Aurora 7",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 2976.2,
+            "combinedLaunchMassKg": 1350,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "M. Scott Carpenter",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Atlas LV-3B 107-D",
+        "launchDateTime": "1962-05-24T12:45:16Z",
+        "launchsite": {
+            "code": "LC-14",
+            "name": "Cape Kennedy Launch Complex 14",
+            "lattitude": 28.491111,
+            "longitude": -80.546944
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Intrepid",
+        "landingDateTime": "1962-02-24T17:41:21Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 19.45,
+            "longitude": -63.983333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 3,
+        "perigeeAltitudeKm": 154,
+        "perigeeAltitudeNmi": 83,
+        "apogeeAltitudeKm": 259,
+        "apogeeAltitudeNmi": 140,
+        "inclinationDeg": 32.5,
+        "periodMinutes": 88.63,
+        "epoch": "1962-05-24"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_7#/media/File:Aurora_7_insignia.jpg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_7#/media/File:Scott_Carpenter_thumbnail.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_7#/media/File:Aurora_7_launch.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_7#/media/File:Carpenter_aurora_7.jpg"
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First US orbital flight."       
+}

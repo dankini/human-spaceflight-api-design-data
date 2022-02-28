@@ -1,0 +1,105 @@
+{
+    "mission": "Vostok 2",
+    "missionOfficial": "Vostok 2",
+    "missionCallsign": "Орёл (Oryol - Eagle)",
+    "missionType": "Low Earth orbital test flight",
+    "program": "Vostok",
+    "agency": [
+        {
+            "full": "Soviet Space Program",
+            "short": "SSP",
+            "country": "USSR"
+        }
+    ],
+    "cosparId": [
+        "1961-019A"
+    ],
+    "satcatNo": [
+        168
+    ],
+    "missionDuration": "01 days, 01 hours, 18 minutes, 00 seconds",
+    "missionDurationSeconds": 91080,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Vostok-3KA No.4",
+                "callSign": "Орёл (Oryol - Eagle)",
+                "config": null,
+                "manufacturer": "Experimental Design Bureau OKB-1"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 10430,
+            "combinedLaunchMassKg": 4731,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Gherman Titov",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Vostok-K 8K72K",
+        "launchDateTime": "1961-08-07T06:00:00Z",
+        "launchsite": {
+            "code": "LC-1/5",
+            "name": "Baikonur Cosmodrome Launch Site 1/5 \"Gagarin's Start\"",
+            "lattitude": 45.920278,
+            "longitude": 63.342222
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "N/A",
+        "landingDateTime": "1961-08-07T07:18:00Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 51.270682,
+            "longitude": 45.99727
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 17.5,
+        "perigeeAltitudeKm": 166,
+        "perigeeAltitudeNmi": 103,
+        "apogeeAltitudeKm": 232,
+        "apogeeAltitudeNmi": 144,
+        "inclinationDeg": 64.93,
+        "periodMinutes": 88.46,
+        "epoch": "1961-08-06"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Vostok_2#/media/File:Vostok2-Pin.jpg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Vostok_2#/media/File:Gherman_Titov_2.jpg"   
+        ],
+        "launch": [   
+        ],
+        "spacecraft": [   
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First crewed mission lasting a full day."        
+}

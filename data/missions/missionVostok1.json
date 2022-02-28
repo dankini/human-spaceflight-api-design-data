@@ -1,0 +1,109 @@
+{
+    "mission": "Vostok 1",
+    "missionOfficial": "Vostok 1",
+    "missionCallsign": "Кедр (Kedr – Siberian pine)",
+    "missionType": "Low Earth orbital test flight",
+    "program": "Vostok",
+    "agency": [
+        {
+            "full": "Soviet Space Program",
+            "short": "SSP",
+            "country": "USSR"
+        }
+    ],
+    "cosparId": [
+        "1961-012A"
+    ],
+    "satcatNo": [
+        103
+    ],
+    "missionDuration": "00 days, 01 hours, 48 minutes, 00 seconds",
+    "missionDurationSeconds": 6480,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Vostok-3KA No.3",
+                "callSign": "Кедр (Kedr – Siberian pine)",
+                "config": null,
+                "manufacturer": "Experimental Design Bureau OKB-1"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 10417,
+            "combinedLaunchMassKg": 4725,
+            "combinedLandingMassLbs": 5290, 
+            "combinedLandingMassKg": 2400
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Yuri Gagarin",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Vostok-K 8K72K",
+        "launchDateTime": "1961-04-12T06:07:00Z",
+        "launchsite": {
+            "code": "LC-1/5",
+            "name": "Baikonur Cosmodrome Launch Site 1/5 \"Gagarin's Start\"",
+            "lattitude": 45.920278,
+            "longitude": 63.342222
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "N/A",
+        "landingDateTime": "1961-04-12T07:55:00Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 51.270682,
+            "longitude": 45.99727
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 1,
+        "perigeeAltitudeKm": 181,
+        "perigeeAltitudeNmi": 98,
+        "apogeeAltitudeKm": 327,
+        "apogeeAltitudeNmi": 177,
+        "inclinationDeg": 64.95,
+        "periodMinutes": 89.1,
+        "epoch": "1961-04-12"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Vostok_1#/media/File:Gagarin_in_Sweden.jpg",
+            "https://en.wikipedia.org/wiki/Vostok_1#/media/File:Vostok1.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Vostok_1#/media/File:Vostok1_big.gif"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Vostok_1#/media/File:Semyorka_Rocket_R7_by_Sergei_Korolyov_in_VDNH_Ostankino_RAF0540.jpg",
+            "https://en.wikipedia.org/wiki/Vostok_1#/media/File:Vostok_spacecraft.jpg",
+            "https://en.wikipedia.org/wiki/Vostok_1#/media/File:Gagarin_Capsule.jpg"
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First human in space."        
+}

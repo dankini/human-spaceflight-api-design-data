@@ -1,0 +1,141 @@
+{
+    "mission": "Apollo 9",
+    "missionOfficial": "Apollo 9",
+    "missionCallsign": "Apollo 9",
+    "missionType": "Crewed Earth orbital CSM/LM flight",
+    "program": "Apollo",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1969-018A",
+        "1969-018C",
+        "1969-018D"
+    ],
+    "satcatNo": [
+        3769,
+        3771
+    ],
+    "missionDuration": "10 days, 01 hours, 00 minutes, 54 seconds",
+    "missionDurationSeconds": 867654,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Apollo CSM-104",
+                "callSign": "Gumdrop",
+                "config": "Block II",
+                "manufacturer": "North American Rockwell"
+            },
+            {
+                "module": "Apollo LM-3",
+                "callSign": "Spider",
+                "config": null,
+                "manufacturer": "Grumman"
+            }
+        ],
+        "properties": {
+            "combinedLaunchMassLbs": 36419,
+            "lcombinedLaunchMassKg": 16519,
+            "combinedLandingMassLbs": 10977, 
+            "combinedLandingMassKg": 4979
+        }
+    },
+    "crew": {
+        "size": 3,
+        "members": [
+            {
+                "role": "Commander",
+                "name": "James McDivitt",
+                "missionAge": null
+            },
+            {
+                "role": "Command Module Pilot",
+                "name": "David Scott",
+                "missionAge": null
+            },
+            {
+                "role": "Lunar Module Pilot",
+                "name": "Russell \"Rusty\" Schweickart",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Russell \"Rusty\" Schweickart",
+                "type": "Spacewalk",
+                "duration": "00 days, 01 hours, 17 minutes, 00 seconds",
+                "durationSeconds": 4620,
+                "notes": "Schweickart exited the hatch on the LM and make his way along the outside of the spacecraft to the CM's hatch, where Scott would stand by to assist, demonstrating that this could be done in the event of an emergency. Schweickart was to wear the life support backpack, or PLSS, to be worn on the lunar surface EVAs. This was the only EVA scheduled before the lunar landing, and thus the only opportunity to test the PLSS in space."
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Saturn V SA-504",
+        "launchDateTime": "1969-03-03T16:00:00Z",
+        "launchSite": {
+            "code": "LC-39A",
+            "name": "Kennedy Space Center Launch Complex 39A",
+            "lattitude": 28.608389,
+            "longitude": -80.604333
+        } 
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Guadalcanal",
+        "landingDateTime": "1969-03-13T17:00:54Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 3.25,
+            "longitude": -67.933333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 151,
+        "perigeeAltitudeKm": 204,
+        "perigeeAltitudeNmi": 110,
+        "apogeeAltitudeKm": 497,
+        "apogeeAltitudeNmi": 268,
+        "inclinationDeg": 33.8,
+        "periodMinutes": 91.55,
+        "epoch": "1969-03-05"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Apollo_9_mission_patch.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Apollo9_Prime_Crew.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:McDivitt,_Scott_and_Schweickart_in_preliminary_training_for_Apollo_AS-258_mission.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Apollo_9_Schweickart_with_EMU.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Apollo-9-Lancering.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Schweickart_Apollo_9_EVA_(AS09-19-2982).jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Spider_in_Earth_Orbit_-_GPN-2000-001106.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:AS09-20-3104_(21315590814).jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Apollo_9_Command_Module.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:Apollo_9_approaches_splashdown.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_9#/media/File:The_Apollo_9_Command_Module_(CM).jpg"
+        ]
+    },
+    "notes": "First flight of the full Apollo spacecraft: the command and service module (CSM) with the Lunar Module (LM). Performed the first crewed flight of a lunar module, the first docking and extraction of the same, one two-person spacewalk (EVA), and the second docking of two crewed spacecraft."        
+}

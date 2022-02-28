@@ -1,0 +1,105 @@
+{
+    "mission": "Vostok 4",
+    "missionOfficial": "Vostok 4",
+    "missionCallsign": "Беркут (Berkut - Golden Eagle)",
+    "missionType": "Low Earth orbital test flight",
+    "program": "Vostok",
+    "agency": [
+        {
+            "full": "Soviet Space Program",
+            "short": "SSP",
+            "country": "USSR"
+        }
+    ],
+    "cosparId": [
+        null
+    ],
+    "satcatNo": [
+        367
+    ],
+    "missionDuration": "02 days, 22 hours, 56 minutes, 00 seconds",
+    "missionDurationSeconds": 255360,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Vostok-3KA No.6",
+                "callSign": "Беркут (Berkut - Golden Eagle)",
+                "config": null,
+                "manufacturer": "Experimental Design Bureau OKB-1"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 10423,
+            "combinedLaunchMassKg": 4728,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Pavel Popovich",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Vostok-K 8K72K",
+        "launchDateTime": "1962-08-12T08:02:33Z",
+        "launchsite": {
+            "code": "LC-1/5",
+            "name": "Baikonur Cosmodrome Launch Site 1/5 \"Gagarin's Start\"",
+            "lattitude": 45.920278,
+            "longitude": 63.342222
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "N/A",
+        "landingDateTime": "1962-08-15T06:59:00Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 48.15,
+            "longitude": 71.85
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 48,
+        "perigeeAltitudeKm": 169,
+        "perigeeAltitudeNmi": 105,
+        "apogeeAltitudeKm": 222,
+        "apogeeAltitudeNmi": 138,
+        "inclinationDeg": 65.0,
+        "periodMinutes": 88.5,
+        "epoch": "1962-08-12"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Vostok_3_and_4#/media/File:Vostok3-4patch.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Vostok_3_and_4#/media/File:Pavel_Popovich.jpg"
+        ],
+        "launch": [
+        ],
+        "spacecraft": [
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First simultaneous flight of two crewed spacecraft."        
+}

@@ -1,0 +1,127 @@
+{
+    "mission": "Gemini 10",
+    "missionOfficial": "Gemini X",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1966-066A"
+    ],
+    "satcatNo": [
+        2349
+    ],
+    "missionDuration": "02 days, 22 hours, 46 minutes, 39 seconds",
+    "missionDurationSeconds": 254799,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC10",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 8295,
+            "combinedLaunchMassKg": 3762.6,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "John Young",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Michael Collins",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Michael Collins",
+                "type": "Stand-up in cockpit",
+                "duration": "00 days, 00 hours, 49 minutes, 00 seconds",
+                "durationSeconds": 2940,
+                "notes": null
+            },
+            {
+                "crewMember": "Michael Collins",
+                "type": "Spacewalk",
+                "duration": "00 days, 00 hours, 39 minutes, 00 seconds",
+                "durationSeconds": 2340,
+                "notes": null
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12565",
+        "launchDateTime": "1966-07-18T22:20:26Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Guadalcanal",
+        "landingDateTime": "1966-07-21T21:07:05Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 26.745,
+            "longitude": -71.95
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 43,
+        "perigeeAltitudeKm": 299,
+        "perigeeAltitudeNmi": 161,
+        "apogeeAltitudeKm": 756,
+        "apogeeAltitudeNmi": 408,
+        "inclinationDeg": 28.8,
+        "periodMinutes": 95.19,
+        "epoch": "1966-07-19"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_10#/media/File:Gemini_10_Insignia.svg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_10#/media/File:Gemini10crew.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_10#/media/File:Launch_of_the_Gemini_11_mission.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_10#/media/File:Gemini_X_Capsule.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_10#/media/File:Gemini_10_Splashdown_-_GPN-2000-000995.jpg"
+        ]
+    },
+    "notes": "First flight to incorporate two extravehicular activities."        
+}

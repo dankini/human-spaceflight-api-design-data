@@ -1,0 +1,115 @@
+{
+    "mission": "Gemini 3",
+    "missionOfficial": "Gemini III",
+    "missionCallsign": "Molly Brown",
+    "missionType": "Crewed Earth orbital flight",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1965-024A"
+    ],
+    "satcatNo": [
+        1301
+    ],
+    "missionDuration": "00 days, 04 hours, 52 minutes, 31 seconds",
+    "missionDurationSeconds": 17551,
+    "distanceTravelledKm": 128748,
+    "distanceTravelledNmi": 80000,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC3",
+                "callSign": "Molly Brown",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 7136,
+            "combinedLaunchMassKg": 3236.9,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Virgil \"Gus\" Grissom",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "John Young",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12558",
+        "launchDateTime": "1965-03-23T14:24:00Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Intrepid",
+        "landingDateTime": "1965-03-23T19:16:31Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 22.433333,
+            "longitude": -70.850000
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 3,
+        "perigeeAltitudeKm": 161,
+        "perigeeAltitudeNmi": 87,
+        "apogeeAltitudeKm": 225,
+        "apogeeAltitudeNmi": 121,
+        "inclinationDeg": 32.6,
+        "periodMinutes": 88.35,
+        "epoch": "1965-03-23"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_3#/media/File:Gemini3.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_3#/media/File:Astronauts_Virgil_I._Grissom_(left)_and_John_W._Young.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_3#/media/File:Gemini_water_egress_training_-_GPN-2006-000029.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_3#/media/File:Gemini_3.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:Gemini_5_launch.jpg"
+        ],
+        "spacecraft": [
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_3#/media/File:HH-52A_USCG_over_Gemini_3_capsule_1965.jpeg"
+        ]
+    },
+    "notes": "First multi-crew US spaceflight into orbit. First U.S. mission in which the crew fired thrusters to change the size and shape of their orbit."
+     
+}

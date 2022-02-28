@@ -1,0 +1,129 @@
+{
+    "mission": "Gemini 11",
+    "missionOfficial": "Gemini XI",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1966-081A"
+    ],
+    "satcatNo": [
+        2415
+    ],
+    "missionDuration": "02 days, 23 hours, 17 minutes, 09 seconds",
+    "missionDurationSeconds": 256629,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC11",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 8374,
+            "combinedLaunchMassKg": 3798,
+            "combinedLandingMassLbs": 4230, 
+            "combinedLandingMassKg": 1920
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Charles \"Pete\" Conrad",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Richard Gordon",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Richard Gordon",
+                "type": "Spacewalk",
+                "duration": "00 days, 00 hours, 33 minutes, 00 seconds",
+                "durationSeconds": 1980,
+                "notes": null
+            },
+            {
+                "crewMember": "Richard Gordon",
+                "type": "Stand-up in cockpit",
+                "duration": "00 days, 02 hours, 08 minutes, 00 seconds",
+                "durationSeconds": 7680,
+                "notes": null
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV",
+        "launchDateTime": "1966-09-12T14:42:26Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Guam",
+        "landingDateTime": "1966-09-15T13:59:35Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 24.256667,
+            "longitude": -70
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 44,
+        "perigeeAltitudeKm": 298,
+        "perigeeAltitudeNmi": 161,
+        "apogeeAltitudeKm": 1368,
+        "apogeeAltitudeNmi": 739,
+        "inclinationDeg": 28.8,
+        "periodMinutes": 101.57,
+        "epoch": "1966-09-14"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:Gemini_11_patch.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:Gemini_11_prime_crew_(Gordon_and_Conrad).jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:Gemini-Titan_11_Launch_-_GPN-2000-001020.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:Atlas_Agena_Launch_-_GPN-2000-001019.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:Gemini_11_Agena.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:S66-54536.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_11#/media/File:Gemini_11_capsule_(front)_at_California_Science_Center.jpg"
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First direct-ascent (first orbit) rendezvous with an Agena Target Vehicle, docking with it 1 hour 34 minutes after launch; used the Agena rocket engine to achieve a record high-apogee Earth orbit; and created a small amount of artificial gravity by spinning the two spacecraft connected by a tether."       
+}

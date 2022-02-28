@@ -1,0 +1,130 @@
+{
+    "mission": "Apollo 7",
+    "missionOfficial": "Apollo 7",
+    "missionCallsign": "Apollo 7",
+    "missionType": "Crewed Earth orbital CSM flight",
+    "program": "Apollo",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1968-089A",
+        "1968-089B"
+    ],
+    "satcatNo": [
+        3486
+    ],
+    "missionDuration": "10 days, 20 hours, 09 minutes, 03 seconds",
+    "missionDurationSeconds": 936543,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Apollo CSM-101",
+                "callSign": "Gumdrop",
+                "config": "Block II",
+                "manufacturer": "North American Rockwell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 36419,
+            "combinedLaunchMassKg": 16519,
+            "combinedLandingMassLbs": 11409, 
+            "combinedLandingMassKg": 5175
+        }
+    },
+    "crew": {
+        "size": 3,
+        "members": [
+            {
+                "role": "Commander",
+                "name": "Walter \"Wally\" Schirra",
+                "missionAge": null
+            },
+            {
+                "role": "Command Module Pilot",
+                "name": "Donn Eisele",
+                "missionAge": null
+            },
+            {
+                "role": "Lunar Module Pilot",
+                "name": "Walter Cunningham",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Saturn IB SA-205",
+        "launchDateTime": "1968-10-11T15:02:45Z",
+        "launchSite": {
+            "code": "LC-34",
+            "name": "Cape Canaveral Launch Complex 34",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        } 
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Essex",
+        "landingDateTime": "1968-10-22T11:11:48Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 27.533333,
+            "longitude": -64.066667
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 163,
+        "perigeeAltitudeKm": 227,
+        "perigeeAltitudeNmi": 123,
+        "apogeeAltitudeKm": 301,
+        "apogeeAltitudeNmi": 163,
+        "inclinationDeg": 31.6,
+        "periodMinutes": 89.55,
+        "epoch": "1968-10-13"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo7.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:The_Apollo_7_Prime_Crew_-_GPN-2000-001160.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:AS-205_crew.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_during_the_first_live_television_transmission_from_space.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_Cunningham.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:The_Apollo_7_crew_is_welcomed_aboard_the_USS_Essex.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_crew_debriefing.jpeg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Saturn_IB_at_launch_complex_34.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_Launch_-_GPN-2000-001171.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_photographed_in_flight_by_ALOTS_(68-HC-641).jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:S68-42513.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:As7-3-1545.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Saturn_IB_Second_Stage_with_open_LM_adapter.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_Command_Module_Museum.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_crew_during_water_egress_training.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_7#/media/File:Apollo_7_recovery_with_SH-3_Sea_King_1968.jpg"
+        ]
+    },
+    "notes": "First Apollo mission after Apollo 1 incident. First crewed Apollo flight. First test of CSM in Earth orbit. First live television publicly broadcast from a crewed mission."        
+}

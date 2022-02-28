@@ -1,0 +1,113 @@
+{
+    "mission": "MR-3",
+    "missionOfficial": "Mercury-Redstone 3",
+    "missionCallsign": "Freedom 7",
+    "missionType": "Test flight",
+    "program": "Mercury",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        null
+    ],
+    "satcatNo": [
+        null
+    ],
+    "missionDuration": "00 days, 00 hou[rs, 15 minutes, 28 seconds",
+    "missionDurationSeconds": 928,
+    "distanceTravelledKm": 487.3,
+    "distanceTravelledNmi": 263.1,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Mercury No.7",
+                "callSign": "Freedom 7",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 4040,
+            "combinedLaunchMassKg": 1830,
+            "combinedLandingMassLbs": 2316, 
+            "combinedLandingMassKg": 1051
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Alan Shephard",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Redstone MRLV MR-7",
+        "launchDateTime": "1961-05-05T14:34:13Z",
+        "launchsite": {
+            "code": "LC-5",
+            "name": "Cape Kennedy Launch Complex 5",
+            "lattitude": 28.439444,
+            "longitude":  -80.573333
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Lake Champlain",
+        "landingDateTime": "1961-05-05T14:49:35Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 27.228333,
+            "longitude": -75.883333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": null,
+        "regime": "Suborbital",
+        "orbitsCompleted": null,
+        "perigeeAltitudeKm": null,
+        "perigeeAltitudeNmi": null,
+        "apogeeAltitudeKm": 187.5,
+        "apogeeAltitudeNmi": 101.2,
+        "inclinationDeg": null,
+        "periodMinutes": null,
+        "epoch": null
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Freedom_7_insignia.png",
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Mr-3-patch-small.gif"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Alan-shepard.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Alan_Shepard_during_Mercury-Redstone_3.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Alan_Shepard_in_capsule_aboard_Freedom_7_before_launch2.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Mercury-Redstone_3_Launch_MSFC-6100884.jpg",
+            ""
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Freedom_7_U.S._Naval_Academy.JPG"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Recovery_of_Alan_B._Shepard.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_3#/media/File:Shepard_on_Deck_of_Champlain_after_Recovery_-_GPN-2000-001362.jpg"
+        ]
+    },
+    "notes": "First American in space."        
+}

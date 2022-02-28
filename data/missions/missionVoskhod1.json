@@ -1,0 +1,114 @@
+{
+    "mission": "Voskhod 1",
+    "missionOfficial": "Voskhod 1",
+    "missionCallsign": "Рубин (Rubin - Ruby)",
+    "missionType": "Crewed mission",
+    "program": "Voskhod",
+    "agency": [
+        {
+            "full": "Soviet Space Program",
+            "short": "SSP",
+            "country": "USSR"
+        }
+    ],
+    "cosparId": [
+        "1964-065A"
+    ],
+    "satcatNo": [
+        904
+    ],
+    "missionDuration": "01 days, 00 hours, 17 minutes, 03 seconds",
+    "missionDurationSeconds": 87423,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Voskhod-3KV No.3",
+                "callSign": "Рубин (Rubin - Ruby)",
+                "config": null,
+                "manufacturer": "Experimental Design Bureau OKB-1"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 11730,
+            "combinedLaunchMassKg": 5320,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 3,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Vladimir Komarov",
+                "missionAge": null
+            },
+            {
+                "role": "Engineer",
+                "name": "Konstantin Feoktistov",
+                "missionAge": null
+            },
+            {
+                "role": "Medic",
+                "name": "Boris Yegorov",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Voskhod 11A57",
+        "launchDateTime": "1964-10-12T07:30:01Z",
+        "launchsite": {
+            "code": "LC-1/5",
+            "name": "Baikonur Cosmodrome Launch Site 1/5 \"Gagarin's Start\"",
+            "lattitude": 45.920278,
+            "longitude": 63.342222
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "N/A",
+        "landingDateTime": "1964-10-13T07:47:04Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 52.033333,
+            "longitude": 68.133333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 16,
+        "perigeeAltitudeKm": 178,
+        "perigeeAltitudeNmi": 111,
+        "apogeeAltitudeKm": 336,
+        "apogeeAltitudeNmi": 209,
+        "inclinationDeg": 64.7,
+        "periodMinutes": 89.6,
+        "epoch": null
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+        ],
+        "crew": [
+        ],
+        "launch": [
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Voskhod_1#/media/File:Voskhod_1_capsule_on_display,_2016.jpg"
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First multi-crew spaceflight into orbit. First flight without the use of spacesuits. First flight to carry either an engineer or a physician into outer space. Also set a crewed spacecraft altitude record of 336 km (209 mi)."        
+}

@@ -1,0 +1,126 @@
+{
+    "mission": "Gemini 9A",
+    "missionOfficial": "Gemini IX-A",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous and EVA",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1966-047A"
+    ],
+    "satcatNo": [
+        2191
+    ],
+    "missionDuration": "03 days, 00 hours, 20 minutes, 50 seconds",
+    "missionDurationSeconds": 260450,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC9",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 8300,
+            "combinedLaunchMassKg": 3800,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Thomas Stafford",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Eugene Cernan",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Eugene Cernan",
+                "type": "Spacewalk",
+                "duration": "00 days, 02 hours, 07 minutes, 00 seconds",
+                "durationSeconds": 7620,
+                "notes": null
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12564",
+        "launchDateTime": "1966-06-03T13:39:33Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Wasp",
+        "landingDateTime": "1966-06-06T14:00:23Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 27.866667,
+            "longitude": -75.006667
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 47,
+        "perigeeAltitudeKm": 272,
+        "perigeeAltitudeNmi": 147,
+        "apogeeAltitudeKm": 274,
+        "apogeeAltitudeNmi": 148,
+        "inclinationDeg": 28.8,
+        "periodMinutes": 89.97,
+        "epoch": "1966-06-06"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Ge09Patch_orig.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Thomas_P._Stafford_and_Eugene_A._Cernan_%E2%80%93_Gemini_9_Crew_(S66-15621).jpg",
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Gemini_9_prime_and_backup_crew.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Gemini_9A_launch.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:ATDA_atop_Atlas_launch_vehicle_launched_from_Kennedy_Space_Center.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Tom_Stafford_inside_Gemini_IX_spacecraft.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:S66-37970_-_Gemini_IX-A_Augmented_Target_Docking_Adapter_(Retouched).jpg",
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Gemini-9_eva-cernan.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Gemini9a.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:The_Angry_Alligator_-_GPN-2000-001354.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_9A#/media/File:Gemini_9_-_Splashdown.jpg"
+        ]
+    },
+    "notes": "First use of backup crew after prime crew were killed in a plane crash. Unsuccessful docking with unmanned target vehicle. Successful EVA although cut short and reduced in scope."        
+}

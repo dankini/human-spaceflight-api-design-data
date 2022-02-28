@@ -1,0 +1,112 @@
+{
+    "mission": "MR-6",
+    "missionOfficial": "Mercury-Atlas 6",
+    "missionCallsign": "Friendship 7",
+    "missionType": "Test flight",
+    "program": "Mercury",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1962-003A"
+    ],
+    "satcatNo": [
+        240
+    ],
+    "missionDuration": "00 days, 04 hours, 55 minutes, 23 seconds",
+    "missionDurationSeconds": 17723,
+    "distanceTravelledKm": 121793,
+    "distanceTravelledNmi": 65763,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Mercury No.13",
+                "callSign": "Friendship 7",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 2981,
+            "combinedLaunchMassKg": 1352,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "John Glenn",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Atlas LV-3B 109-D",
+        "launchDateTime": "1962-02-20T14:47:39Z",
+        "launchsite": {
+            "code": "LC-14",
+            "name": "Cape Kennedy Launch Complex 14",
+            "lattitude": 28.491111,
+            "longitude": -80.546944
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Noa",
+        "landingDateTime": "1962-02-20T19:43:02Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 21.433333,
+            "longitude": -68.683333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 3,
+        "perigeeAltitudeKm": 150,
+        "perigeeAltitudeNmi": 80,
+        "apogeeAltitudeKm": 248,
+        "apogeeAltitudeNmi": 134,
+        "inclinationDeg": 32.5,
+        "periodMinutes": 88.47,
+        "epoch": "1962-02-20"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:Friendship_7_insignia.jpg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:Mercury_6,_John_H_Glenn_Jr.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:Glenn62.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:Launch_of_Friendship_7_-_GPN-2000-000686.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:John_Glynn_TV.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:Glenn_Enters_his_Mercury_Capsule_-_GPN-2000-001029.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:Mercury-Atlas_6_Earth_photo.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/54/Capsule%2C_Mercury%2C_MA-6.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_6#/media/File:USS_Noa_(DD-841)_hoists_Friendship_7_capsule_aboard_1962.jpg"
+        ]
+    },
+    "notes": "First US orbital flight."       
+}

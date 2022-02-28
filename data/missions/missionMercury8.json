@@ -1,0 +1,113 @@
+{
+    "mission": "MR-8",
+    "missionOfficial": "Mercury-Atlas 8",
+    "missionCallsign": "Sigma 7",
+    "missionType": "Test flight",
+    "program": "Mercury",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1962-052A"
+    ],
+    "satcatNo": [
+        433
+    ],
+    "missionDuration": "00 days, 09 hours, 13 minutes, 15 seconds",
+    "missionDurationSeconds": 33195,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Mercury No.16",
+                "callSign": "Sigma 7",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 4329,
+            "combinedLaunchMassKg": 1964,
+            "combinedLandingMassLbs": 2440, 
+            "combinedLandingMassKg": 1110
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Walter \"Wally\" Schirra",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Atlas LV-3B 113-D",
+        "launchDateTime": "1962-10-03T12:15:12Z",
+        "launchsite": {
+            "code": "LC-14",
+            "name": "Cape Kennedy Launch Complex 14",
+            "lattitude": 28.491111,
+            "longitude": -80.546944
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Kearsarge",
+        "landingDateTime": "1962-10-03T21:28:22Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 32.1,
+            "longitude": -174.466667
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 6,
+        "perigeeAltitudeKm": 156,
+        "perigeeAltitudeNmi": 84,
+        "apogeeAltitudeKm": 285,
+        "apogeeAltitudeNmi": 154,
+        "inclinationDeg": 32.5,
+        "periodMinutes": 88.91,
+        "epoch": "1962-10-03"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Sigma_7_insginia.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Mercury_Astronaut_Wally_Schirra_-_GPN-2000-001351.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Schirra_and_Kraft_discussing_MA-8_flight_plan.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:MA-8_simulated_launch.gif",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Mercury-Atlas_8_launch.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Schirra_entering_MA-8_capsule_(closeup).jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Mercury_8_in_Hangar_-_GPN-2000-001441.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Sigma7-1.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:MA-8_landing_under_parachute.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_8#/media/File:Recovery_of_Sigma_7_space_capsule_by_USS_Kearsarge_October_1962.jpg"
+        ]
+    },
+    "notes": null
+}

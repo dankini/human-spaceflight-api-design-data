@@ -1,0 +1,104 @@
+{
+    "mission": "Vostok 5",
+    "missionOfficial": "Vostok 5",
+    "missionCallsign": "Ястреб (Yastreb - Hawk)",
+    "missionType": "Low Earth orbital test flight",
+    "program": "Vostok",
+    "agency": [
+        {
+            "full": "Soviet Space Program",
+            "short": "SSP",
+            "country": "USSR"
+        }
+    ],
+    "cosparId": [
+        "1963-020A"
+    ],
+    "satcatNo": [
+        591
+    ],
+    "missionDuration": "04 days, 23 hours, 07 minutes, 00 seconds",
+    "missionDurationSeconds": 428820,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Vostok-3KA No.7",
+                "callSign": "Ястреб (Yastreb - Hawk)",
+                "config": null,
+                "manufacturer": "Experimental Design Bureau OKB-1"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 10410,
+            "combinedLaunchMassKg": 4720,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Valery Bykovsky",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Vostok-K 8K72K",
+        "launchDateTime": "1963-06-14T11:58:58Z",
+        "launchsite": {
+            "code": "LC-1/5",
+            "name": "Baikonur Cosmodrome Launch Site 1/5 \"Gagarin's Start\"",
+            "lattitude": 45.920278,
+            "longitude": 63.342222
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "N/A",
+        "landingDateTime": "1963-06-19T11:06:00Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 53.39777,
+            "longitude": 67.605
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 82,
+        "perigeeAltitudeKm": 162,
+        "perigeeAltitudeNmi": 101,
+        "apogeeAltitudeKm": 209,
+        "apogeeAltitudeNmi": 130,
+        "inclinationDeg": 65.0,
+        "periodMinutes": 88.4,
+        "epoch": "1963-06-15"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Vostok_5#/media/File:Valeri_bykovsky.jpg"
+        ],
+        "launch": [
+        ],
+        "spacecraft": [
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "Longest solo orbital flight."        
+}

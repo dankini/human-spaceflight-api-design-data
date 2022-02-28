@@ -1,0 +1,122 @@
+{
+    "mission": "Gemini 4",
+    "missionOfficial": "Gemini IV",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with EVA",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1965-043A"
+    ],
+    "satcatNo": [
+        1390
+    ],
+    "missionDuration": "04 days, 01 hour, 56 minutes, 12 seconds",
+    "missionDurationSeconds": 352572,
+    "distanceTravelledKm": 2590600,
+    "distanceTravelledNmi": 1398800,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC4",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 7880,
+            "combinedLaunchMassKg": 3570,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "James McDivitt",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Edward \"Ed\" White",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Edward \"Ed\" White",
+                "type": "Spacewalk",
+                "duration": "00 days, 00 hours, 20 minutes, 00 seconds",
+                "durationSeconds": 1200,
+                "notes": null
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12559",
+        "launchDateTime": "1965-06-03T15:15:59Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Wasp",
+        "landingDateTime": "1965-06-07T17:12:11Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 27.733333,
+            "longitude": -74.183333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 66,
+        "perigeeAltitudeKm": 165,
+        "perigeeAltitudeNmi": 89,
+        "apogeeAltitudeKm": 289,
+        "apogeeAltitudeNmi": 156,
+        "inclinationDeg": 32.5,
+        "periodMinutes": 89.03,
+        "epoch": "1965-06-03"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_4#/media/File:Gemini_Four_patch.jpg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_4#/media/File:Gemini_4_crew_portrait.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_4#/media/File:White_and_McDivitt_Talk_to_President_-_GPN-2000-001341.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_4#/media/File:GT-4_Launch_-_GPN-2000-001015.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:Gemini_5_launch.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_4#/media/File:White_Floats_out_the_Open_Hatch_-_GPN-2000-001407.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_4#/media/File:Gemini_4_National_Air_and_Space_Museum_2018.tif"
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First multi-day space flight by the US. First space walk by an American (~20mins)."     
+}

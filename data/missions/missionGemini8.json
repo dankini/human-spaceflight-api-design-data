@@ -1,0 +1,116 @@
+{
+    "mission": "Gemini 8",
+    "missionOfficial": "Gemini VIII",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous and docking",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1966-020A"
+    ],
+    "satcatNo": [
+        2105
+    ],
+    "missionDuration": "00 days, 10 hours, 41 minutes, 26 seconds",
+    "missionDurationSeconds": 38486,
+    "distanceTravelledKm": 293206,
+    "distanceTravelledNmi": 158319,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC8",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 8353,
+            "combinedLaunchMassKg": 3789,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Neil Armstrong",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "David Scott",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12563",
+        "launchDateTime": "1965-03-16T16:41:02Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Leonard F. Mason",
+        "landingDateTime": "1966-03-17T03:22:28Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 25.233333,
+            "longitude": 136
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 6,
+        "perigeeAltitudeKm": 261,
+        "perigeeAltitudeNmi": 141,
+        "apogeeAltitudeKm": 270,
+        "apogeeAltitudeNmi": 150,
+        "inclinationDeg": 28.9,
+        "periodMinutes": 89.81,
+        "epoch": "1966-03-16"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Ge08Patch_orig.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Portrait_of_the_Gemini_8_prime_crew.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Press_conference_-_GT-VIII_-_prime_and_backup_crew.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Gemini_8_Atlas-Agena_launch.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Gemini_8_launch.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:The_First_Docking_in_Space_-_GPN-2000-001344.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Gemini_VIII_Capsule.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Armstrong_and_Scott_with_Hatches_Open_-_GPN-2000-001413.jpg"
+        ]
+    },
+    "notes": "First docking of two spacecraft in orbit (with an uncrewed Agena Target Vehicle), but suffered the first critical in-space system failure of a U.S. spacecraft which threatened the lives of the astronauts and required an immediate abort of the mission."        
+}

@@ -1,0 +1,138 @@
+{
+    "mission": "Gemini 12",
+    "missionOfficial": "Gemini XII",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1966-104A"
+    ],
+    "satcatNo": [
+        2566
+    ],
+    "missionDuration": "03 days, 22 hours, 34 minutes, 31 seconds",
+    "missionDurationSeconds": 340471,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC12",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 8294,
+            "combinedLaunchMassKg": 3762.1,
+            "combinedLandingMassLbs": 4292.93, 
+            "combinedLandingMassKg": 1947.24
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "James \"Jim\" Lovell",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Edwin \"Buzz\" Aldrin",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Edwin \"Buzz\" Aldrin",
+                "type": "Stand-up in cockpit",
+                "duration": "00 days, 02 hours, 29 minutes, 00 seconds",
+                "durationSeconds": 8940,
+                "notes": null
+            },
+            {
+                "crewMember": "Edwin \"Buzz\" Aldrin",
+                "type": "Spacewalk",
+                "duration": "00 days, 02 hours, 06 minutes, 00 seconds",
+                "durationSeconds": 7560,
+                "notes": null
+            },
+            {
+                "crewMember": "Edwin \"Buzz\" Aldrin",
+                "type": "Stand-up in cockpit",
+                "duration": "00 days, 00 hours, 55 minutes, 00 seconds",
+                "durationSeconds": 3300,
+                "notes": null
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV",
+        "launchDateTime": "1966-11-11T20:46:33Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Wasp",
+        "landingDateTime": "1966-11-15T19:21:04Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 24.583333,
+            "longitude": -69.95
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 59,
+        "perigeeAltitudeKm": 251,
+        "perigeeAltitudeNmi": 136,
+        "apogeeAltitudeKm": 289,
+        "apogeeAltitudeNmi": 156,
+        "inclinationDeg": 28.8,
+        "periodMinutes": 89.94,
+        "epoch": "1966-11-14"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:Gemini_12_insignia.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:Gemini12_crew.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:Lovell_and_Aldrin_on_Deck_-_GPN-2000-001356.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:S66-63536.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:Gemini_12_-_Edwin_Aldrin_in_open_hatch_of_spacecraft_during_EVA.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:S66-63536.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:S66-63387_PR.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:Gemini_12_tethered_stationkeeping.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_12#/media/File:Gemini_12_spacecraft_at_the_Adler_Planetarium.jpg"
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "First flight to incorporate three extravehicular activities."        
+}

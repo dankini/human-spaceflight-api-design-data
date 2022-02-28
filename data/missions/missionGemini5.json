@@ -1,0 +1,115 @@
+{
+    "mission": "Gemini 5",
+    "missionOfficial": "Gemini V",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1965-068A"
+    ],
+    "satcatNo": [
+        1516
+    ],
+    "missionDuration": "07 days, 22 hours, 55 minutes, 14 seconds",
+    "missionDurationSeconds": 687314,
+    "distanceTravelledKm": 5242682,
+    "distanceTravelledNmi": 3257652,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC5",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 7948,
+            "combinedLaunchMassKg": 3605,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "L. Gordon Cooper",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Charles \"Pete\" Conrad",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12560",
+        "launchDateTime": "1965-08-21T13:59:59Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Lake Champlain",
+        "landingDateTime": "1965-08-29T12:55:13Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 29.733333,
+            "longitude": -69.75
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 120,
+        "perigeeAltitudeKm": 170,
+        "perigeeAltitudeNmi": 92,
+        "apogeeAltitudeKm": 330,
+        "apogeeAltitudeNmi": 180,
+        "inclinationDeg": 32.5,
+        "periodMinutes": 89.5,
+        "epoch": "1965-08-23"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:Gemini5insignia.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:S65-46990.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:Gemini_5_on_the_pad_-_GPN-2006-000039.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:Gemini_5_launch.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:20180706_Gemini_5_Johnson_Space_Center.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:S65-45753.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_5#/media/File:Gemini-5_Gordon_Cooper_recovery.jpg"
+        ]
+    },
+    "notes": "Longest US spaceflight."     
+}

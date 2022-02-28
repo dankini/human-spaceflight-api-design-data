@@ -1,0 +1,116 @@
+{
+    "mission": "Gemini 6A",
+    "missionOfficial": "Gemini VI-A",
+    "missionCallsign": null,
+    "missionType": "Crewed Earth orbital flight with rendezvous",
+    "program": "Gemini",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1965-104A"
+    ],
+    "satcatNo": [
+        1839
+    ],
+    "missionDuration": "01 day, 01 hour, 51 minutes, 24 seconds",
+    "missionDurationSeconds": 93084,
+    "distanceTravelledKm": 694415,
+    "distanceTravelledNmi": 374954,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Gemini SC6",
+                "callSign": null,
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 7818,
+            "combinedLaunchMassKg": 3546,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Command Pilot",
+                "name": "Walter \"Wally\" Schirra",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Thomas Stafford",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Titan II GLV, s/n 62-12561",
+        "launchDateTime": "1965-12-15T13:37:26Z",
+        "launchsite": {
+            "code": "LC-19",
+            "name": "Cape Kennedy Launch Complex 19",
+            "lattitude": 28.506667,
+            "longitude": -80.554167
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Wasp",
+        "landingDateTime": "1965-12-16T15:28:50Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 23.583333,
+            "longitude": -67.833333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 16,
+        "perigeeAltitudeKm": 270,
+        "perigeeAltitudeNmi": 150,
+        "apogeeAltitudeKm": 274,
+        "apogeeAltitudeNmi": 148,
+        "inclinationDeg": 28.9,
+        "periodMinutes": 89.95,
+        "epoch": "1965-12-15"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Gemini_6A_patch.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Gemini_6_prime_crew.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Gemini_VI_Stafford_capsule.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Atlas-Agena_6_Launch.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Gemini_6_launch_abort.jpg",
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Gemini_VI_Launch_-_GPN-2000-000612.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:S65-63221_-_Gemini_6_Views_Gemini_7_(Retouched).jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Gemini_6A#/media/File:Schirra,_Stafford_and_Gemini_on_Deck_-_GPN-2000-001412.jpg"
+        ]
+    },
+    "notes": "Passive target for the first crewed space rendezvous performed by the crew of Gemini 6A."          
+}

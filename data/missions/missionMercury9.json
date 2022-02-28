@@ -1,0 +1,108 @@
+{
+    "mission": "MR-8",
+    "missionOfficial": "Mercury-Atlas 8",
+    "missionCallsign": "Faith 7",
+    "missionType": "Test flight",
+    "program": "Mercury",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1963-015A"
+    ],
+    "satcatNo": [
+        576
+    ],
+    "missionDuration": "00 days, 34 hours, 19 minutes, 49 seconds",
+    "missionDurationSeconds": 123589,
+    "distanceTravelledKm": 878971,
+    "distanceTravelledNmi": 474606,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Mercury No.20",
+                "callSign": "Faith 7",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 3000,
+            "combinedLaunchMassKg": 1360,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "L. Gordon Cooper",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Atlas LV-3B 130-D",
+        "launchDateTime": "1963-05-15T13:04:13Z",
+        "launchsite": {
+            "code": "LC-14",
+            "name": "Cape Kennedy Launch Complex 14",
+            "lattitude": 28.491111,
+            "longitude": -80.546944
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Kearsarge",
+        "landingDateTime": "1963-05-16T23:24:02Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 27.333333,
+            "longitude": -176.433333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 22,
+        "perigeeAltitudeKm": 163,
+        "perigeeAltitudeNmi": 88,
+        "apogeeAltitudeKm": 265,
+        "apogeeAltitudeNmi": 143,
+        "inclinationDeg": 32.5,
+        "periodMinutes": 88.77,
+        "epoch": "1963-05-15"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_9#/media/File:Faith_7_insignia.jpg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_9#/media/File:Gordon_Cooper_Jr._-_cropped.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_9#/media/File:Cooper_-_GPN-2000-000997.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_9#/media/File:20180706_Faith_7_Johnson_Space_Center_2.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Mercury-Atlas_9#/media/File:USS_Kearsarge_(CVS-33)_crew_spells_out_'Mercury_9'_on_the_flight_deck_on_15_May_1963_(GPN-2000-001403).jpg"
+        ]
+    },
+    "notes": "First time an American astronaut had sent back television images from space."
+}

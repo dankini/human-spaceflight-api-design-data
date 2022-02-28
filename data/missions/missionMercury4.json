@@ -1,0 +1,109 @@
+{
+    "mission": "MR-4",
+    "missionOfficial": "Mercury-Redstone 4",
+    "missionCallsign": "Liberty Bell 7",
+    "missionType": "Test flight",
+    "program": "Mercury",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        null
+    ],
+    "satcatNo": [
+        null
+    ],
+    "missionDuration": "00 days, 00 hours, 15 minutes, 37 seconds",
+    "missionDurationSeconds": 937,
+    "distanceTravelledKm": 486.15,
+    "distanceTravelledNmi": 262.50,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Mercury No.11",
+                "callSign": "Liberty Bell 7",
+                "config": null,
+                "manufacturer": "McDonnell"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 2835,
+            "combinedLaunchMassKg": 1286,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 1,
+        "members": [
+            {
+                "role": "Pilot",
+                "name": "Virgil \"Gus\" Grissom",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Redstone MRLV MR-8",
+        "launchDateTime": "1961-07-21T12:20:36Z",
+        "launchsite": {
+            "code": "LC-5",
+            "name": "Cape Kennedy Launch Complex 5",
+            "lattitude": 28.439444,
+            "longitude":  -80.573333
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Randolph",
+        "landingDateTime": "1961-07-21T12:36:13Z",
+        "landingSite": {
+            "description": "North Atlantic Ocean",
+            "lattitude": 27.533333,
+            "longitude": -75.733333
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": null,
+        "regime": "Suborbital",
+        "orbitsCompleted": null,
+        "perigeeAltitudeKm": null,
+        "perigeeAltitudeNmi": null,
+        "apogeeAltitudeKm": 190.31,
+        "apogeeAltitudeNmi": 102.76,
+        "inclinationDeg": null,
+        "periodMinutes": null,
+        "epoch": null
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_4#/media/File:Liberty_bell_insignia.jpg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_4#/media/File:Grissom_prepares_to_enter_Liberty_Bell_7_61-MR4-76.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_4#/media/File:Mercury-Redstone_4_Launch_MSFC-6414824.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_4#/media/File:Grissom_Climbs_into_Liberty_Bell_7_-_GPN-2002-000048.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_4#/media/File:Grissom_lifted_from_water_61-MR4-82.jpg",
+            "https://en.wikipedia.org/wiki/Mercury-Redstone_4#/media/File:Failed_Attempt_to_Recover_Liberty_Bell_7_-_GPN-2002-000047.jpg"
+        ]
+    },
+    "notes": "First American in space."        
+}

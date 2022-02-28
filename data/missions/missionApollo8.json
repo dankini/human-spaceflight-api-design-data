@@ -1,0 +1,140 @@
+{
+    "mission": "Apollo 8",
+    "missionOfficial": "Apollo 8",
+    "missionCallsign": "Apollo 8",
+    "missionType": "Crewed lunar orbital CSM flight",
+    "program": "Apollo",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1968-118A"
+    ],
+    "satcatNo": [
+        3626
+    ],
+    "missionDuration": "06 days, 03 hours, 00 minutes, 42 seconds",
+    "missionDurationSeconds": 529242,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Apollo CSM-103",
+                "callSign": null,
+                "config": "Block II",
+                "manufacturer": "North American Rockwell"
+            }
+        ],
+        "properties": {
+            "combinedLaunchMassLbs": 87610,
+            "combinedLaunchMassKg": 39710,
+            "combinedLandingMassLbs": 10977, 
+            "combinedLandingMassKg": 4979
+        }
+    },
+    "crew": {
+        "size": 3,
+        "members": [
+            {
+                "role": "Commander",
+                "name": "Frank Borman",
+                "missionAge": null
+            },
+            {
+                "role": "Command Module Pilot",
+                "name": "James \"Jim\" Lovell",
+                "missionAge": null
+            },
+            {
+                "role": "Lunar Module Pilot",
+                "name": "William \"Bill\" Anders",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": false,
+        "details": [
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Saturn V SA-503",
+        "launchDateTime": "1968-12-21T12:51:00Z",
+        "launchSite": {
+            "code": "LC-39A",
+            "name": "Kennedy Space Center Launch Complex 39A",
+            "lattitude": 28.608389,
+            "longitude": -80.604333
+        } 
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Yorktown",
+        "landingDateTime": "1968-12-27T15:51:42Z",
+        "landingSite": {
+            "description": "North Pacific Ocean",
+            "lattitude": 8.133333,
+            "longitude": -165.016667
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": null,
+        "regime": null,
+        "orbitsCompleted": 2,
+        "perigeeAltitudeKm": 184.40,
+        "perigeeAltitudeNmi": 99.57,
+        "apogeeAltitudeKm": 185.18,
+        "apogeeAltitudeNmi": 99.99,
+        "inclinationDeg": 32.15,
+        "periodMinutes": 88.19,
+        "epoch": "1968-12-21"
+    },
+    "lunarOrbitalParameters": [
+        {
+            "spaceCraft": "CSM",
+            "orbitalInsertion": "1968-12-24T09:59:20Z",
+            "orbitalDeparture": "1968-12-25T06:10:17Z",
+            "system": "Selenocentric",
+            "orbitsCompleted": 10,
+            "periseleneAltitudeKm": 110.6,
+            "periseleneAltitudeNmi": 59.7,
+            "aposeleneAltitudeKm": 112.4,
+            "aposeleneAltitudeNmi": 60.7,
+            "inclinationDeg": 12,
+            "periodHrs": 2 
+        }
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Apollo-8-patch.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Apollo_8_Crewmembers_-_GPN-2000-001125.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-S68-56531.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-KSC-68PC-147.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-KSC-68PC-147.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-KSC-68PC-147.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:NASA-Apollo8-Dec24-Earthrise.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-KSC-68PC-147.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-KSC-68PC-147.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Apollo_8_Image_of_the_Moon_(AS08-14-2506).jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:The_Lunar_Farside_-_GPN-2000-001127.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Apollo_8_reentry,_December_27,_1968.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:The_crew_of_Apollo_8_addresses_the_crew_of_the_USS_Yorktown_after_a_successful_splashdown_and_recovery.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_8#/media/File:Ap8-S68-56310.jpg"
+        ]
+    },
+    "notes": "First crewed spacecraft to leave low Earth orbit. First human spaceflight to reach another astronomical object, namely the Moon. First humans to witness and photograph an Earthrise."        
+}

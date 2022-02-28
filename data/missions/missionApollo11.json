@@ -1,0 +1,186 @@
+{
+    "mission": "Apollo 11",
+    "missionOfficial": "Apollo 11",
+    "missionCallsign": "Apollo 11",
+    "missionType": "Crewed lunar landing",
+    "program": "Apollo",
+    "agency": [
+        {
+            "full": "National Aeronautics and Space Administration",
+            "short": "NASA",
+            "country": "US"
+        }
+    ],
+    "cosparId": [
+        "1969-059A",
+        "1969-059C"
+    ],
+    "satcatNo": [
+        4039,
+        4041
+    ],
+    "missionDuration": "08 days, 03 hours, 18 minutes, 35 seconds",
+    "missionDurationSeconds": 703115,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Apollo CSM-107",
+                "callSign": "Columbia",
+                "config": "Block II",
+                "manufacturer": "North American Rockwell"   
+            },
+            {
+                "module": "Apollo LM-5",
+                "callSign": "Eagle",
+                "config": null,
+                "manufacturer": "Grumman"   
+            }
+        ],
+        "properties": {
+            "combinedLaunchMassLbs": 100756,
+            "combinedLaunchMassKg": 45702,
+            "combinedLandingMassLbs": 10873, 
+            "combinedLandingMassKg": 4932
+        }
+    },
+    "crew": {
+        "size": 3,
+        "members": [
+            {
+                "role": "Commander",
+                "name": "Neil Armstrong",
+                "missionAge": null
+            },
+            {
+                "role": "Command Module Pilot",
+                "name": "Michael Collins",
+                "missionAge": null
+            },
+            {
+                "role": "Lunar Module Pilot",
+                "name": "Edwin \"Buzz\" Aldrin",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Neil Armstrong",
+                "type": "Moonwalk",
+                "duration": "00 days, 02 hours, 31 minutes, 40 seconds",
+                "durationSeconds": 9100,
+                "notes": "TBC"
+            },
+            {
+                "crewMember": "Edwin \"Buzz\" Aldrin",
+                "type": "Moonwalk",
+                "duration": "00 days, 01 hours, 33 minutes, 00 seconds",
+                "durationSeconds": 5580,
+                "notes": "TBC"
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Saturn V SA-506",
+        "launchDateTime": "1969-07-16T13:32:00Z",
+        "launchSite": {
+            "code": "LC-39B",
+            "name": "Kennedy Space Center Launch Complex 39B",
+            "lattitude": 28.608389,
+            "longitude": -80.604333
+        } 
+    },
+    "missionEnd": {
+        "recoveredBy": "USS Hornet",
+        "landingDateTime": "1969-07-24T16:50:35Z",
+        "landingSite": {
+            "description": "North Pacific Ocean",
+            "lattitude": 13.316667,
+            "longitude": -169.15
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": null,
+        "regime": null,
+        "orbitsCompleted": null,
+        "perigeeAltitudeKm": null,
+        "perigeeAltitudeNmi": null,
+        "apogeeAltitudeKm": null,
+        "apogeeAltitudeNmi": null,
+        "inclinationDeg": null,
+        "periodMinutes": null,
+        "epoch": null
+    },
+    "lunarOrbitalParameters": [
+        {
+            "spaceCraft": "CSM",
+            "orbitalInsertion": "1969-07-19T17:21:50Z",
+            "orbitalDeparture": "1969-07-22T04:55:42Z",
+            "system": "Selenocentric",
+            "orbitsCompleted": 30,
+            "periseleneAltitudeKm": 100.9,
+            "periseleneAltitudeNmi": 54.5,
+            "aposeleneAltitudeKm": 122.4,
+            "aposeleneAltitudeNmi": 66.1,
+            "inclinationDeg": 1.25,
+            "periodHrs": 2 
+        },
+        {
+            "spaceCraft": "LM",
+            "orbitalInsertion": null,
+            "orbitalDeparture": null,
+            "system": "Selenocentric",
+            "orbitsCompleted": null,
+            "periseleneAltitudeKm": null,
+            "periseleneAltitudeNmi": null,
+            "aposeleneAltitudeKm": null,
+            "aposeleneAltitudeNmi": null,
+            "inclinationDeg": null,
+            "periodHrs": null 
+        }
+    ],
+    "lunarLandingParameters": [
+        {
+            "spaceCraft": "LM",
+            "lunarLandingDateTime": "1969-07-20T20:17:40Z",
+            "lunarLandingSite": {
+                "description": "Tranquility Base (Mare Tranquillitatis)",
+                "lunarLattitude": 0.67416,
+                "lunarLongitude": 23.47314
+            },
+            "lunarLaunchDateTime": "1969-07-21T17:54:00Z"
+        }
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_insignia.png"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_Crew.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:President_Nixon_welcomes_the_Apollo_11_astronauts_aboard_the_U.S.S._Hornet.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_ticker_tape_parade_1.jpg"
+        ],
+        "launch": [
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_Saturn_V_SN_SA506_(69-HC-620).jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_Launch_-_GPN-2000-000630.jpg"
+        ],
+        "spacecraft": [
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_CSM_photographed_from_Lunar_Module_(AS11-37-5445).jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_Lunar_Module_Eagle_in_landing_configuration_in_lunar_orbit_from_the_Command_and_Service_Module_Columbia.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Armstrong_on_Moon_(As11-40-5886)_(cropped).jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Buzz_salutes_the_U.S._Flag.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_lunar_module.jpg",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_Columbia.png",
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Apollo_11_Command_Module_in_Hangar.jpg"
+        ],
+        "landing": [
+            "https://en.wikipedia.org/wiki/Apollo_11#/media/File:Splashdown_3.jpg"
+        ]
+    },
+    "notes": "First landed humans on the Moon. First crewed landing, in Tranquility Base, Sea of Tranquility. Surface EVA time: 2:31 hr. Samples returned: 47.51 pounds (21.55 kg).Armstrong's first step onto the lunar surface was broadcast on live TV to a worldwide audience. He described the event as \"one small step for [a] man, one giant leap for mankind.\" Apollo 11 effectively proved US victory in the Space Race to demonstrate spaceflight superiority, by fulfilling a national goal proposed in 1961 by President John F. Kennedy, \"before this decade is out, of landing a man on the Moon and returning him safely to the Earth.\""
+}

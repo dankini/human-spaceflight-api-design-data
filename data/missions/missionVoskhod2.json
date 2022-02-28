@@ -1,0 +1,117 @@
+{
+    "mission": "Voskhod 2",
+    "missionOfficial": "Voskhod 2",
+    "missionCallsign": "Алмаз (Almaz – Diamond)",
+    "missionType": "Crewed mission",
+    "program": "Voskhod",
+    "agency": [
+        {
+            "full": "Soviet Space Program",
+            "short": "SSP",
+            "country": "USSR"
+        }
+    ],
+    "cosparId": [
+        "1965-022A"
+    ],
+    "satcatNo": [
+        1274
+    ],
+    "missionDuration": "01 days, 02 hours, 02 minutes, 17 seconds",
+    "missionDurationSeconds": 93737,
+    "distanceTravelledKm": null,
+    "distanceTravelledNmi": null,
+    "spacecraft": {
+        "modules": [
+            {
+                "module": "Voskhod-3KV No.4",
+                "callSign": "Алмаз (Almaz – Diamond)",
+                "config": null,
+                "manufacturer": "Experimental Design Bureau OKB-1"
+            }
+        ],
+        "properties": {    
+            "combinedLaunchMassLbs": 12527,
+            "combinedLaunchMassKg": 5682,
+            "combinedLandingMassLbs": null, 
+            "combinedLandingMassKg": null
+        }
+    },
+    "crew": {
+        "size": 2,
+        "members": [
+            {
+                "role": "Commander",
+                "name": "Pavel Belyayev",
+                "missionAge": null
+            },
+            {
+                "role": "Pilot",
+                "name": "Alexei Leonov",
+                "missionAge": null
+            }
+        ]
+    },
+    "eva": {
+        "executed": true,
+        "details": [
+            {
+                "crewMember": "Alexei Leonov",
+                "type": "Spacewalk",
+                "duration": "00 days, 00 hours, 12 minutes, 09 seconds",
+                "durationSeconds": 729,
+                "notes": null
+            }
+        ]
+    },
+    "missionStart": {
+        "launchVehicle": "Voskhod 11A57",
+        "launchDateTime": "1965-03-18T07:00:00Z",
+        "launchsite": {
+            "code": "LC-1/5",
+            "name": "Baikonur Cosmodrome Launch Site 1/5 \"Gagarin's Start\"",
+            "lattitude": 45.920278,
+            "longitude": 63.342222
+        }
+    },
+    "missionEnd": {
+        "recoveredBy": "N/A",
+        "landingDateTime": "1965-03-19T09:02:17Z",
+        "landingSite": {
+            "description": null,
+            "lattitude": 59.566667,
+            "longitude": 55.466667
+        }
+    },
+    "earthOrbitalParameters": {
+        "system": "Geocentric",
+        "regime": "Low Earth Orbit",
+        "orbitsCompleted": 17,
+        "perigeeAltitudeKm": 167,
+        "perigeeAltitudeNmi": 104,
+        "apogeeAltitudeKm": 475,
+        "apogeeAltitudeNmi": 295,
+        "inclinationDeg": 64.8,
+        "periodMinutes": 90.9,
+        "epoch": "1965-03-18"
+    },
+    "lunarOrbitalParameters": [
+    ],
+    "lunarLandingParameters": [
+    ],
+    "images": {
+        "insignia": [
+            "https://en.wikipedia.org/wiki/Voskhod_2#/media/File:Zvezda_Rocket_Patch.svg"
+        ],
+        "crew": [
+            "https://en.wikipedia.org/wiki/Voskhod_2#/media/File:FirstSpaceWalk.png"
+        ],
+        "launch": [
+        ],
+        "spacecraft": [
+        ],
+        "landing": [
+        ]
+    },
+    "notes": "Alexei Leonov became the first person to leave the spacecraft in a specialized spacesuit to conduct a 12-minute spacewalk."        
+}
