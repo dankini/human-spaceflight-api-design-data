@@ -1,6 +1,6 @@
 {
-    "mission": "MR-8",
-    "missionOfficial": "Mercury-Atlas 8",
+    "mission": "MR-9",
+    "missionOfficial": "Mercury-Atlas 9",
     "missionCallsign": "Faith 7",
     "missionType": "Test flight",
     "program": "Mercury",
@@ -30,10 +30,10 @@
                 "manufacturer": "McDonnell"
             }
         ],
-        "properties": {    
+        "properties": {
             "combinedLaunchMassLbs": 3000,
             "combinedLaunchMassKg": 1360,
-            "combinedLandingMassLbs": null, 
+            "combinedLandingMassLbs": null,
             "combinedLandingMassKg": null
         }
     },
@@ -49,8 +49,7 @@
     },
     "eva": {
         "executed": false,
-        "details": [
-        ]
+        "details": []
     },
     "missionStart": {
         "launchVehicle": "Atlas LV-3B 130-D",
@@ -83,10 +82,8 @@
         "periodMinutes": 88.77,
         "epoch": "1963-05-15"
     },
-    "lunarOrbitalParameters": [
-    ],
-    "lunarLandingParameters": [
-    ],
+    "lunarOrbitalParameters": [],
+    "lunarLandingParameters": [],
     "images": {
         "insignia": [
             "https://en.wikipedia.org/wiki/Mercury-Atlas_9#/media/File:Faith_7_insignia.jpg"

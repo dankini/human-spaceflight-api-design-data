@@ -30,10 +30,10 @@
                 "manufacturer": "McDonnell"
             }
         ],
-        "properties": {    
+        "properties": {
             "combinedLaunchMassLbs": 8353,
             "combinedLaunchMassKg": 3789,
-            "combinedLandingMassLbs": null, 
+            "combinedLandingMassLbs": null,
             "combinedLandingMassKg": null
         }
     },
@@ -54,12 +54,11 @@
     },
     "eva": {
         "executed": false,
-        "details": [
-        ]
+        "details": []
     },
     "missionStart": {
         "launchVehicle": "Titan II GLV, s/n 62-12563",
-        "launchDateTime": "1965-03-16T16:41:02Z",
+        "launchDateTime": "1966-03-16T16:41:02Z",
         "launchsite": {
             "code": "LC-19",
             "name": "Cape Kennedy Launch Complex 19",
@@ -88,10 +87,8 @@
         "periodMinutes": 89.81,
         "epoch": "1966-03-16"
     },
-    "lunarOrbitalParameters": [
-    ],
-    "lunarLandingParameters": [
-    ],
+    "lunarOrbitalParameters": [],
+    "lunarLandingParameters": [],
     "images": {
         "insignia": [
             "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Ge08Patch_orig.png"
@@ -112,5 +109,5 @@
             "https://en.wikipedia.org/wiki/Gemini_8#/media/File:Armstrong_and_Scott_with_Hatches_Open_-_GPN-2000-001413.jpg"
         ]
     },
-    "notes": "First docking of two spacecraft in orbit (with an uncrewed Agena Target Vehicle), but suffered the first critical in-space system failure of a U.S. spacecraft which threatened the lives of the astronauts and required an immediate abort of the mission."        
+    "notes": "First docking of two spacecraft in orbit (with an uncrewed Agena Target Vehicle), but suffered the first critical in-space system failure of a U.S. spacecraft which threatened the lives of the astronauts and required an immediate abort of the mission."
 }
