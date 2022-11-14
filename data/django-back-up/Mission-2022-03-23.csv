@@ -1,46 +1,46 @@
 id,name,name_aka,type,agency,duration_secs,distance_travelled_km,distance_travelled_nmi,launch_date_time
-8a229ff8-f5a2-4383-806e-91452012b998,Vostok 1,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,1:48:00,,,1961-04-12 06:07:00
-7433eaf4-6840-4756-810d-974b04a567c1,Mercury-Redstone 3,MR-3,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,0:15:28,487.30,263.10,1961-05-05 14:34:13
-20ea8c21-c166-4c71-877d-fc5f24b7a597,Mercury-Redstone 4,MR-4,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,0:15:37,486.15,262.50,1961-07-21 12:20:36
-dc9ea719-200a-4bbd-a413-aac2343adb61,Vostok 2,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 1:18:00",,,1961-08-07 06:00:00
-33cba59d-7d08-468e-ae93-fface92d09dd,Mercury-Atlas 6,MR-6,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,4:55:23,121793.00,65763.00,1962-02-20 14:47:39
-899e55f6-c244-4095-ae01-13dac55302b0,Mercury-Atlas 7,MR-7,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,4:56:05,122344.00,76021.00,1962-05-24 12:45:16
-efdf87ab-bfac-4f5a-8d51-f994e89b5d8e,Vostok 3,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"3 days, 22:28:00",,,1962-08-11 08:24:00
-1555c4aa-ddd4-4802-87d5-023da9352ec1,Vostok 4,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"2 days, 22:56:00",,,1962-08-12 08:02:33
-afb92a7c-85db-45f6-9492-f139a96c3744,Mercury-Atlas 8,MR-8,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,9:13:15,,,1962-10-03 12:15:12
-35884523-1da8-445e-b85d-d1e674a75946,Mercury-Atlas 9,,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"1 day, 10:19:49",878971.00,474606.00,1963-05-15 13:04:13
-f534cf2a-b3e8-4823-a67c-cc79fc29ba77,Vostok 5,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 23:07:00",,,1963-06-14 11:58:58
-89b2bb47-f966-42e5-9fdf-3da3c83da4d2,Vostok 6,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"2 days, 22:50:48",,,1963-06-16 09:29:52
-ee7400de-a901-436c-b7f0-02e139a45a13,Voskhod 1,,Crewed mission,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 0:17:03",,,1964-10-12 07:30:01
-5e5d8d21-3073-4dcd-94bd-7e8dd84760c2,Voskhod 2,,Crewed mission,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 2:02:17",,,1965-03-18 07:00:00
-bd17ab7c-5d8f-4aec-a23f-aa9750894a1e,Gemini 3,Gemini III,Crewed Earth orbital flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,4:52:31,128748.00,80000.00,1965-03-23 14:24:00
-566f6b54-54c1-40ac-9afe-09de3347c98a,Gemini 4,Gemini IV,Crewed Earth orbital flight with EVA,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"4 days, 1:56:12",2590600.00,1398800.00,1965-06-03 15:15:59
-81472640-b76f-4e2c-9d45-e65d851e8818,Gemini 5,Gemini V,Crewed Earth orbital flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"7 days, 22:55:14",5242682.00,3257652.00,1965-08-21 13:59:59
-d1b7af1e-c066-4158-b171-d99b43168f69,Gemini 7,Gemini VII,Crewed Earth orbital flight with rendezvous,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"13 days, 18:35:01",9030000.00,4876000.00,1965-12-04 19:30:03
-1c988955-158f-40ec-b154-d10eeaf1f2b7,Gemini 6A,Gemini VI-A,Crewed Earth orbital flight with rendezvous,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"1 day, 1:51:24",694415.00,374954.00,1965-12-15 13:37:26
-09dfebb3-6f3d-427e-aab8-83aa19956cb6,Gemini 8,Gemini VIII,Crewed Earth orbital flight with rendezvous and docking,dcd8bd33-5349-4f0d-8ded-2f3014da336d,10:41:26,293206.00,158319.00,1966-03-16 16:41:02
-3fb15afa-e144-4a16-afaf-cee05b2f979e,Gemini 9A,Gemini IX-A,Crewed Earth orbital flight with rendezvous and EVA,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"3 days, 0:20:50",,,1966-06-03 13:39:33
-8ce5bc8c-c5ba-4e95-8f07-5da0bf23a10e,Gemini 10,Gemini X,"Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",dcd8bd33-5349-4f0d-8ded-2f3014da336d,"2 days, 22:46:39",,,1966-07-18 22:20:26
-70d4cafe-e8d8-44e6-9228-c30b0a5e1bd2,Gemini 11,Gemini XI,"Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",dcd8bd33-5349-4f0d-8ded-2f3014da336d,"2 days, 23:17:09",,,1966-09-12 14:42:26
-2b04bc6e-4a29-44c9-91a7-80d2681f2ddf,Gemini 12,Gemini XII,"Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",dcd8bd33-5349-4f0d-8ded-2f3014da336d,"3 days, 22:34:31",,,1966-11-11 20:46:33
-6db1bad5-31c0-4ac6-9807-9ea1f3bdefd8,Soyuz 1,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 2:47:52",,,1967-04-23 00:35:00
-f64b149c-f7ae-4432-891a-3faa93b16311,Apollo 7,,Crewed Earth orbital CSM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"10 days, 20:09:03",,,1968-10-11 15:02:45
-aac293aa-7bb7-4e88-a218-424356a2e94e,Soyuz 3,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"3 days, 22:50:45",,,1968-10-26 08:34:18
-acec7402-45e6-47b2-b4aa-aa3a4117538d,Apollo 8,,Crewed lunar orbital CSM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"6 days, 3:00:42",,,1968-12-27 15:51:42
-e459f877-b8dc-4409-9650-02ef6cbb8bdd,Soyuz 4,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"2 days, 23:20:47",,,1969-01-14 07:30:00
-3db8b4c4-cdb9-4d90-b344-12d86325e0e8,Soyuz 5,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"5 days, 6:15:49",,,1969-01-15 07:04:57
-468a736d-8328-4ec3-911c-4f166bd13c4c,Apollo 9,,Crewed Earth orbital CSM/LM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"10 days, 1:00:54",,,1969-03-03 16:00:00
-f52e2404-7bce-41e2-8c11-ef52593f9f14,Apollo 10,,Crewed lunar orbital CSM/LM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"8 days, 0:03:23",,,1969-05-18 16:49:00
-4ac5f550-18ea-4603-8600-3e7ebf185f1b,Apollo 11,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"8 days, 3:18:35",,,1969-07-16 13:32:00
-bdd8410d-4c77-4a0b-863a-bc475f789535,Soyuz 6,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 22:42:47",,,1969-10-11 11:10:00
-27fcf0f0-825f-44b8-be74-48e589cf225c,Soyuz 7,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 22:40:23",,,1969-10-12 10:44:42
-eb729a33-832f-424c-b209-33c6bd4c6f94,Soyuz 8,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 22:50:49",,,1969-10-13 10:19:09
-f08ebaab-96b4-4f45-b968-dea779034cef,Apollo 12,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"10 days, 4:36:24",,,1969-11-14 16:22:00
-24100446-9632-45a6-9e3b-0bf9c1b2af8c,Apollo 13,,Crewed lunar landing attempt,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"5 days, 22:54:41",,,1970-04-11 19:13:00
-1aa58c4d-5a19-4f9e-b48d-7caa3707d33f,Soyuz 9,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"17 days, 16:58:55",,,1970-06-01 19:00:00
-5f20503b-1876-4309-9059-6e41661f175f,Apollo 14,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"9 days, 0:01:58",,,1971-01-31 21:03:02
-150674d2-2f31-4ca7-a80f-3e389838e954,Soyuz 10,,Dock with Salyut 1,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 23:45:54",,,1971-04-22 23:54:06
-9d092c17-f7eb-4129-ae0f-7c20b7547a95,Soyuz 11,,Dock with Salyut 1,50c41305-2bfa-4602-82b5-15c36d584ffc,"23 days, 18:21:43",,,1971-06-06 04:55:09
-74ee2d1f-27d5-433a-ade9-1dfcb3add270,Apollo 15,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"12 days, 7:11:53",,,1971-07-26 13:34:00
-167ebd43-9bf0-4178-9e60-d082f5e20c45,Apollo 16,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"11 days, 1:51:05",,,1972-04-16 17:54:00
-919400ff-f390-49db-b191-88f2e951dd53,Apollo 17,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"12 days, 13:51:59",,,1972-12-07 05:33:00
+8a229ff8-f5a2-4383-806e-91452012b998,Vostok 1,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,01:48:00,,,12/04/1961 06:07
+7433eaf4-6840-4756-810d-974b04a567c1,Mercury-Redstone 3,MR-3,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,00:15:28,487.3,263.1,05/05/1961 14:34
+20ea8c21-c166-4c71-877d-fc5f24b7a597,Mercury-Redstone 4,MR-4,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,00:15:37,486.15,262.5,21/07/1961 12:20
+dc9ea719-200a-4bbd-a413-aac2343adb61,Vostok 2,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 1:18:00",,,07/08/1961 06:00
+33cba59d-7d08-468e-ae93-fface92d09dd,Mercury-Atlas 6,MR-6,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,04:55:23,121793,65763,20/02/1962 14:47
+899e55f6-c244-4095-ae01-13dac55302b0,Mercury-Atlas 7,MR-7,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,04:56:05,122344,76021,24/05/1962 12:45
+efdf87ab-bfac-4f5a-8d51-f994e89b5d8e,Vostok 3,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"3 days, 22:28:00",,,11/08/1962 08:24
+1555c4aa-ddd4-4802-87d5-023da9352ec1,Vostok 4,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"2 days, 22:56:00",,,12/08/1962 08:02
+afb92a7c-85db-45f6-9492-f139a96c3744,Mercury-Atlas 8,MR-8,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,09:13:15,,,03/10/1962 12:15
+35884523-1da8-445e-b85d-d1e674a75946,Mercury-Atlas 9,,Test flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"1 day, 10:19:49",878971,474606,15/05/1963 13:04
+f534cf2a-b3e8-4823-a67c-cc79fc29ba77,Vostok 5,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 23:07:00",,,14/06/1963 11:58
+89b2bb47-f966-42e5-9fdf-3da3c83da4d2,Vostok 6,,Low Earth orbital test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"2 days, 22:50:48",,,16/06/1963 09:29
+ee7400de-a901-436c-b7f0-02e139a45a13,Voskhod 1,,Crewed mission,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 0:17:03",,,12/10/1964 07:30
+5e5d8d21-3073-4dcd-94bd-7e8dd84760c2,Voskhod 2,,Crewed mission,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 2:02:17",,,18/03/1965 07:00
+bd17ab7c-5d8f-4aec-a23f-aa9750894a1e,Gemini 3,Gemini III,Crewed Earth orbital flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,04:52:31,128748,80000,23/03/1965 14:24
+566f6b54-54c1-40ac-9afe-09de3347c98a,Gemini 4,Gemini IV,Crewed Earth orbital flight with EVA,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"4 days, 1:56:12",2590600,1398800,03/06/1965 15:15
+81472640-b76f-4e2c-9d45-e65d851e8818,Gemini 5,Gemini V,Crewed Earth orbital flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"7 days, 22:55:14",5242682,3257652,21/08/1965 13:59
+d1b7af1e-c066-4158-b171-d99b43168f69,Gemini 7,Gemini VII,Crewed Earth orbital flight with rendezvous,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"13 days, 18:35:01",9030000,4876000,04/12/1965 19:30
+1c988955-158f-40ec-b154-d10eeaf1f2b7,Gemini 6A,Gemini VI-A,Crewed Earth orbital flight with rendezvous,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"1 day, 1:51:24",694415,374954,15/12/1965 13:37
+09dfebb3-6f3d-427e-aab8-83aa19956cb6,Gemini 8,Gemini VIII,Crewed Earth orbital flight with rendezvous and docking,dcd8bd33-5349-4f0d-8ded-2f3014da336d,10:41:26,293206,158319,16/03/1966 16:41
+3fb15afa-e144-4a16-afaf-cee05b2f979e,Gemini 9A,Gemini IX-A,Crewed Earth orbital flight with rendezvous and EVA,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"3 days, 0:20:50",,,03/06/1966 13:39
+8ce5bc8c-c5ba-4e95-8f07-5da0bf23a10e,Gemini 10,Gemini X,"Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",dcd8bd33-5349-4f0d-8ded-2f3014da336d,"2 days, 22:46:39",,,18/07/1966 22:20
+70d4cafe-e8d8-44e6-9228-c30b0a5e1bd2,Gemini 11,Gemini XI,"Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",dcd8bd33-5349-4f0d-8ded-2f3014da336d,"2 days, 23:17:09",,,12/09/1966 14:42
+2b04bc6e-4a29-44c9-91a7-80d2681f2ddf,Gemini 12,Gemini XII,"Crewed Earth orbital flight with rendezvous and docking, including multi EVAs",dcd8bd33-5349-4f0d-8ded-2f3014da336d,"3 days, 22:34:31",,,11/11/1966 20:46
+6db1bad5-31c0-4ac6-9807-9ea1f3bdefd8,Soyuz 1,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 2:47:52",,,23/04/1967 00:35
+f64b149c-f7ae-4432-891a-3faa93b16311,Apollo 7,,Crewed Earth orbital CSM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"10 days, 20:09:03",,,11/10/1968 15:02
+aac293aa-7bb7-4e88-a218-424356a2e94e,Soyuz 3,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"3 days, 22:50:45",,,26/10/1968 08:34
+acec7402-45e6-47b2-b4aa-aa3a4117538d,Apollo 8,,Crewed lunar orbital CSM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"6 days, 3:00:42",,,27/12/1968 15:51
+e459f877-b8dc-4409-9650-02ef6cbb8bdd,Soyuz 4,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"2 days, 23:20:47",,,14/01/1969 07:30
+3db8b4c4-cdb9-4d90-b344-12d86325e0e8,Soyuz 5,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"5 days, 6:15:49",,,15/01/1969 07:04
+468a736d-8328-4ec3-911c-4f166bd13c4c,Apollo 9,,Crewed Earth orbital CSM/LM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"10 days, 1:00:54",,,03/03/1969 16:00
+f52e2404-7bce-41e2-8c11-ef52593f9f14,Apollo 10,,Crewed lunar orbital CSM/LM flight,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"8 days, 0:03:23",,,18/05/1969 16:49
+4ac5f550-18ea-4603-8600-3e7ebf185f1b,Apollo 11,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"8 days, 3:18:35",,,16/07/1969 13:32
+bdd8410d-4c77-4a0b-863a-bc475f789535,Soyuz 6,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 22:42:47",,,11/10/1969 11:10
+27fcf0f0-825f-44b8-be74-48e589cf225c,Soyuz 7,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 22:40:23",,,12/10/1969 10:44
+eb729a33-832f-424c-b209-33c6bd4c6f94,Soyuz 8,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"4 days, 22:50:49",,,13/10/1969 10:19
+f08ebaab-96b4-4f45-b968-dea779034cef,Apollo 12,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"10 days, 4:36:24",,,14/11/1969 16:22
+24100446-9632-45a6-9e3b-0bf9c1b2af8c,Apollo 13,,Crewed lunar landing attempt,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"5 days, 22:54:41",,,11/04/1970 19:13
+1aa58c4d-5a19-4f9e-b48d-7caa3707d33f,Soyuz 9,,Test flight,50c41305-2bfa-4602-82b5-15c36d584ffc,"17 days, 16:58:55",,,01/06/1970 19:00
+5f20503b-1876-4309-9059-6e41661f175f,Apollo 14,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"9 days, 0:01:58",,,31/01/1971 21:03
+150674d2-2f31-4ca7-a80f-3e389838e954,Soyuz 10,,Dock with Salyut 1,50c41305-2bfa-4602-82b5-15c36d584ffc,"1 day, 23:45:54",,,22/04/1971 23:54
+9d092c17-f7eb-4129-ae0f-7c20b7547a95,Soyuz 11,,Dock with Salyut 1,50c41305-2bfa-4602-82b5-15c36d584ffc,"23 days, 18:21:43",,,06/06/1971 04:55
+74ee2d1f-27d5-433a-ade9-1dfcb3add270,Apollo 15,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"12 days, 7:11:53",,,26/07/1971 13:34
+167ebd43-9bf0-4178-9e60-d082f5e20c45,Apollo 16,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"11 days, 1:51:05",,,16/04/1972 17:54
+919400ff-f390-49db-b191-88f2e951dd53,Apollo 17,,Crewed lunar landing,dcd8bd33-5349-4f0d-8ded-2f3014da336d,"12 days, 13:51:59",,,07/12/1972 05:33
